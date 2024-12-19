@@ -1,4 +1,4 @@
-package com.caseoned;
+package com.caseone;
 
 import java.util.ArrayList;
 import java.util.List;
